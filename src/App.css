@@ -5,7 +5,7 @@
 
 /* this prevents the white at the bottom and top of the webpage */
 body { 
-  background-color: #E64054; 
+  background-color: #181A1B; 
 }
 
 /* html, body, body > div, .app {
@@ -14,7 +14,7 @@ body {
 } */
 
 .App {
-  background-color: #E64054;
+  background-color: #181A1B;
   text-align: center;
   font-family: 'ChivoMono';
   font-variation-settings: "wght" 500;
@@ -60,7 +60,7 @@ body {
 
 
 .App-footer {
-  background-color: #E64054;
+  background-color: #181A1B;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
